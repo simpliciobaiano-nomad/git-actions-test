@@ -1,6 +1,6 @@
 {
   "name": "git-actions-test",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "projeto tem o objetivo de fazer alguns testes no git actions",
   "main": "index.js",
   "scripts": {
