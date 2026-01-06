@@ -12,8 +12,7 @@ export class AppController {
   }
 
   @Get("hello")
-  getHello2(@Req() request: Request): string {
-    console.log(request);
+  getHello2(): string {
     return this.appService.getHello2();
   }
 }
