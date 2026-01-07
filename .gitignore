@@ -1,2 +1,3 @@
 /node_modules
 /.t-flow-git-auto-tag
+*.sh
